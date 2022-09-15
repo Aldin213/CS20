@@ -1,10 +1,11 @@
 package SkillBuilding;
 
-public class Digits {
+public class Digits 
+{
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public static void main(String[] args)
+	{
+		
 	}
 
 }
